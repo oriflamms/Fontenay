@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Recueil des actes de l’abbaye de Fontenay</title>
@@ -4712,7 +4712,7 @@
                      </choice>
                   </w>
                   <w xml:id="w_Fontenay_1193" n="1324">illic</w>
-                  <w xml:id="w_Fontenay_1194" n="1325">po⁹ite</w>
+                  <w xml:id="w_Fontenay_1194" n="1325">poſite</w>
                   <w xml:id="w_Fontenay_1195" n="1326">lapidee</w>
                   <w xml:id="w_Fontenay_1196" n="1327">mete</w>
                   <w xml:id="w_Fontenay_1197" n="1328">demonſtrant</w>
@@ -8038,7 +8038,7 @@
       <teiHeader>
          <fileDesc>
             <titleStmt>
-               <title>Acte original n° 9 = Acces n° 915 </title>
+               <title>Acte original n° 9 = Access n° 915 </title>
                <author></author>
             </titleStmt>
             <publicationStmt>
@@ -14969,7 +14969,7 @@
                         <choice>
                            <expan ana="ori:align-no">De</expan>
                            <abbr>d̃</abbr>
-                        </choice>
+                        </choice>i
                      </w>
                      <w xml:id="w_Fontenay_3872" n="4413">
                         <choice>
@@ -15324,12 +15324,12 @@
                         <abbr>tͣ</abbr>
                      </choice>
                   </w>
-                  <geogName><w xml:id="w_Fontenay-w_4524" n="4524"></w></geogName>
+                  <geogName>
                   <w xml:id="w_Fontenay_3972" n="4525">ſecan<choice>
                         <expan ana="ori:align-no">am</expan>
                         <abbr>ã</abbr>
                      </choice>
-                  </w>
+                  </w></geogName>
                   <w xml:id="w_Fontenay_3973" n="4526">habeant</w>
                   <w xml:id="w_Fontenay_3974" n="4527">plenaria</w>
                   <w xml:id="w_Fontenay_3975" n="4528">o<choice>
@@ -16374,8 +16374,9 @@
                   <app>
                      <lem>
                         <w xml:id="w_Fontenay_4250" n="4842">
-                           <seg type="wp" xml:id="wp_Fontenay_4250_1" n="1"></seg>
-                           <seg type="wp" xml:id="wp_Fontenay_4250_2" n="2"></seg>
+                           <seg type="wp" xml:id="wp_Fontenay_4250_1" n="1">contene</seg>
+                           <lb break="no" xml:id="line_pb_Fontenay_18_1_17" n="17"></lb>
+                           <seg type="wp" xml:id="wp_Fontenay_4250_2" n="2">batur</seg>
                         </w>
                      </lem>
                      <rdg wit="B" ana="ori:align-no">continebatur</rdg>
@@ -16428,7 +16429,7 @@
                            <expan ana="ori:align-no">om</expan>
                            <abbr>õ</abbr>
                         </choice>mu</seg>
-                     <lb break="no" xml:id="line_pb_Fontenay_18_1_17" n="17"></lb>
+                     <lb break="no" xml:id="line_pb_Fontenay_18_1_18" n="18"></lb>
                      <seg type="wp" xml:id="wp_Fontenay_4263_2" n="2">nienteſ</seg>
                   </w>
                   <pc xml:id="pc_Fontenay_580" n="4857">,</pc>
@@ -16471,7 +16472,7 @@
                   <w xml:id="w_Fontenay_4275" n="4870">injuriam</w>
                   <w xml:id="w_Fontenay_4276" n="4871">
                      <seg type="wp" xml:id="wp_Fontenay_4276_1" n="1">infer</seg>
-                     <lb break="no" xml:id="line_pb_Fontenay_18_1_18" n="18"></lb>
+                     <lb break="no" xml:id="line_pb_Fontenay_18_1_19" n="19"></lb>
                      <seg type="wp" xml:id="wp_Fontenay_4276_2" n="2">re</seg>
                   </w>
                   <w xml:id="w_Fontenay_4277" n="4872">
@@ -16511,7 +16512,7 @@
                   <w xml:id="w_Fontenay_4286" n="4883">eiſdem</w>
                   <w xml:id="w_Fontenay_4287" n="4884">ipſiſ</w>
                   <w xml:id="w_Fontenay_4288" n="4885">congrue</w>
-                  <lb xml:id="line_pb_Fontenay_18_1_19" n="20"></lb>
+                  <lb xml:id="line_pb_Fontenay_18_1_20" n="20"></lb>
                   <w xml:id="w_Fontenay_4289" n="4886">ſatiſfaciat</w>
                   <pc xml:id="pc_Fontenay_584" n="4887">.</pc>
                </p>
@@ -17963,12 +17964,12 @@
                   <w xml:id="w_Fontenay_4570" n="5207">a</w>
                   <w xml:id="w_Fontenay_4571" n="5208">feſta</w>
                   <lb xml:id="line_pb_Fontenay_21_1_4" n="4"></lb>
-                  <damage>
+                  <w xml:id="w_Fontenay_4573" n="5209"><damage>
                      <supplied source="#B">
-                        <w xml:id="w_Fontenay_4572" n="5209">tion</w>
+                        tion
                      </supplied>
                   </damage>
-                  <w xml:id="w_Fontenay_4573" n="5210">e</w>
+                  e</w>
                   <w xml:id="w_Fontenay_4574" n="5211">δ<choice>
                         <expan ana="ori:align-no">om</expan>
                         <abbr>õ</abbr>
@@ -18207,14 +18208,8 @@
                   <w xml:id="w_Fontenay_4655" n="5301">ſunt</w>
                   <pc xml:id="pc_Fontenay_631" n="5302">:</pc>
                   <persName>
-                     <w xml:id="w_Fontenay_4656" n="5303">Leteri</w>
-                     <damage>
-                        <supplied source="#B">
-                           <w xml:id="w_Fontenay_4657" n="5304">cu</w>
-                        </supplied>
-                     </damage>
-                     <w xml:id="w_Fontenay_4658" n="5305">ſ</w>
-                     <w xml:id="w_Fontenay_4659" n="5306">de</w>
+                     <w xml:id="w_Fontenay_4656" n="5303">Leteri<damage><supplied source="#B">cu</supplied></damage>ſ</w>
+w                     <w xml:id="w_Fontenay_4659" n="5306">de</w>
                      <placeName>
                         <w xml:id="w_Fontenay_4660" n="5307">Alti<hi rend="suscrit">s</hi>ſioδoro</w>
                      </placeName>
@@ -18238,27 +18233,16 @@
                         <gap></gap>uſ</w>
                      <w xml:id="w_Fontenay_4665" n="5314">δe</w>
                      <placeName>
-                        <w xml:id="w_Fontenay_4666" n="5315">Cor</w>
-                        <damage>
-                           <supplied source="#B">
-                              <w xml:id="w_Fontenay_4667" n="5316">ca</w>
-                           </supplied>
-                        </damage>
-                        <w xml:id="w_Fontenay_4668" n="5317">y</w>
+                        <w xml:id="w_Fontenay_4666" n="5315">Corcoy</w>
                      </placeName>
                   </persName>
                   <pc xml:id="pc_Fontenay_634" n="5318">,</pc>
                   <persName>
                      <w xml:id="w_Fontenay_4669" n="5319">Raδulphuſ</w>
                      <roleName>
-                        <w xml:id="w_Fontenay_4670" n="5320">cape</w>
-                        <damage>
-                           <supplied source="#B">
-                              <w xml:id="w_Fontenay_4671" n="5321">llanuſ</w>
+                        <w xml:id="w_Fontenay_4670" n="5320">capellanuſ</w>
                               <w xml:id="w_Fontenay_4672" n="5322">meuſ</w>
-                           </supplied>
-                        </damage>
-                     </roleName>
+                           </roleName>
                   </persName>
                   <pc xml:id="pc_Fontenay_635" n="5323">,</pc>
                   <persName>
@@ -18334,11 +18318,7 @@
                         </supplied>
                      </damage>
                      <figure></figure>
-                     <w xml:id="w_Fontenay_4692" n="5347">Ma</w>
-                     <figure></figure>
-                     <w xml:id="w_Fontenay_4693" n="5348">i</w>
-                     <figure></figure>
-                     <w xml:id="w_Fontenay_4694" n="5349">o</w>
+                     <w xml:id="w_Fontenay_4692" n="5347">Ma<figure/>i<figure/>o</w>
                   </date>
                   <pc xml:id="pc_Fontenay_640" n="5350">.</pc>
                </p>
@@ -20443,7 +20423,7 @@
       </teiHeader>
       <text>
          <body>
-            <div1 org="uniform" sample="complete"><!-- BALISAGE NON FAIT POUR NAME -->
+            <div1 org="uniform" sample="complete">
                <p>
                   <milestone unit="surface" facs="FRAD021_15_H_148_0002.png" xml:id="surf_Fontenay-w_FRAD021_15_H_148_0002" n="25"></milestone><pb facs="FRAD021_15_H_148_0002.png" xml:id="pb_Fontenay_25" n="25"></pb><!--cb added automatically--><cb xml:id="col_pb_Fontenay_25_1" n="1"></cb>
                   <lb xml:id="line_pb_Fontenay_25_1_1" n="1"></lb>
@@ -20655,9 +20635,10 @@
                   <w xml:id="w_Fontenay_5231" n="5971">δomina</w>
                   <w xml:id="w_Fontenay_5232" n="5972">Gertrudiſ</w>
                   <w xml:id="w_Fontenay_5233" n="5973">de</w>
-                  <w xml:id="w_Fontenay_5234" n="5974">bene</w>
-                  <lb xml:id="line_pb_Fontenay_25_1_9" n="9"></lb>
-                  <w xml:id="w_Fontenay_5235" n="5975">ficio</w>
+                  <w xml:id="w_Fontenay_5234" n="5974">
+                     <seg type="wp" xml:id="wp_Fontenay_5234_1" n="1">bene</seg>
+                  <lb xml:id="line_pb_Fontenay_25_1_9" n="9" break="no"></lb>
+                     <seg type="wp" xml:id="wp_Fontenay_5234_2" n="2">ficio</seg></w>
                   <w xml:id="w_Fontenay_5236" n="5976">ecc<choice>
                         <expan ana="ori:align-no">les</expan>
                         <abbr>ł</abbr>
@@ -44324,7 +44305,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+ <!--  <TEI>
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -45241,7 +45222,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+ -->  <TEI>
       <teiHeader>
          <fileDesc>
             <titleStmt>

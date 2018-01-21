@@ -5,7 +5,7 @@
 <?xml-stylesheet type="text/css" href="css/tei_fontenay_liste_pour_insertion_photos.css" title="liste des images" alternate="yes"?>
 <?xml-stylesheet type="text/css" href="css/tei_fontenay_w.css" title="séparation des mots" alternate="yes"?>
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Recueil des actes de l’abbaye de Fontenay</title>
@@ -4727,7 +4727,7 @@
                      </choice>
                   </w>
                   <w xml:id="w_Fontenay_1193">illic</w>
-                  <w xml:id="w_Fontenay_1194">po⁹ite</w>
+                  <w xml:id="w_Fontenay_1194">poſite</w>
                   <w xml:id="w_Fontenay_1195">lapidee</w>
                   <w xml:id="w_Fontenay_1196">mete</w>
                   <w xml:id="w_Fontenay_1197">demonſtrant</w>
@@ -14996,7 +14996,7 @@
                   <w xml:id="w_Fontenay_3868">Item</w>
                   <w xml:id="w_Fontenay_3869">Ego</w>
                   <persName>
-                     <hi rend="lettres capitales">GOδEFRIδ<w xml:id="w_Fontenay_3870">
+                     <hi rend="lettres capitales"><w xml:id="w_Fontenay_3870">GOδEFRIδ
                            <choice>
                               <expan ana="ori:align-no">US</expan>
                               <abbr>⁹</abbr>
@@ -15008,7 +15008,7 @@
                         <choice>
                            <expan ana="ori:align-no">De</expan>
                            <abbr>d̃</abbr>
-                        </choice>
+                        </choice>i
                      </w>
                      <w xml:id="w_Fontenay_3872">
                         <choice>
@@ -44431,7 +44431,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+ <!--  <TEI>
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -45348,7 +45348,7 @@
          </body>
       </text>
    </TEI>
-   <TEI>
+  --> <TEI>
       <teiHeader>
          <fileDesc>
             <titleStmt>
