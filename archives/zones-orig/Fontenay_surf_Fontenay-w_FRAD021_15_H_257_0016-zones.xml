@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Image zones for surf_Fontenay-w_FRAD021_15_H_257_0016</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from Oriflamms XML-TEI transcription file</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2015-12-22">File created</change>
+            <change when="2022-02-24+01:00">Fix @ulx, @lrx, @uly, @lry for zones[@type="page|colum|line"]</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="../img/">
+        <surface xml:id="surf_imgFontenay-w_FRAD021_15_H_257_0016">
+            <graphic url="FRAD021_15_H_257_0016.tif"/>
+            <zone type="page" ulx="0" uly="0" xml:id="zone-pb_Fontenay_67" lrx="2850" lry="3764">
+                <zone type="column" xml:id="zone-col_pb_Fontenay_67_1" ulx="175" uly="234" lrx="2626" lry="3114">
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_1" ulx="175" uly="234" lrx="2551" lry="438">
+                        <zone type="word" xml:id="zone-w_Fontenay_14365" ulx="175" uly="234" lrx="369" lry="438" points="175,234 175,438 369,438 369,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14365_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14365_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14365_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14366" ulx="370" uly="234" lrx="490" lry="438" points="370,234 370,438 490,438 490,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14366_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14366_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14366_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2001" ulx="491" uly="234" lrx="507" lry="438" points="491,234 491,438 507,438 507,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2001_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14367" ulx="508" uly="234" lrx="779" lry="438" points="508,234 508,438 779,438 779,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_9"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14367_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14368" ulx="780" uly="234" lrx="979" lry="438" points="780,234 780,438 979,438 979,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14368_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14368_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14368_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14368_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14368_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14368_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14368_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2002" ulx="979" uly="234" lrx="999" lry="438" points="979,234 979,438 999,438 999,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2002_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14369" ulx="1000" uly="234" lrx="1120" lry="438" points="1000,234 1000,438 1120,438 1120,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14369_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14369_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14369_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14369_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14370" ulx="1121" uly="234" lrx="1246" lry="438" points="1121,234 1121,438 1246,438 1246,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14370_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14370_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14370_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14370_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14370_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14371" ulx="1247" uly="234" lrx="1356" lry="438" points="1247,234 1247,438 1356,438 1356,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14371_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14371_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14371_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14372" ulx="1357" uly="234" lrx="1503" lry="438" points="1357,234 1357,438 1503,438 1503,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14372_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14372_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14372_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14372_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14372_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14373" ulx="1504" uly="234" lrx="1555" lry="438" points="1504,234 1504,438 1555,438 1555,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14373_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14374" ulx="1556" uly="234" lrx="1781" lry="438" points="1556,234 1556,438 1781,438 1781,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14374_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14374_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14374_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14374_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14374_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14374_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14374_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14374_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14375" ulx="1782" uly="234" lrx="1984" lry="438" points="1782,234 1782,438 1984,438 1984,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14375_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14375_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14375_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14375_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14375_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14375_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14376" ulx="1985" uly="234" lrx="2161" lry="438" points="1985,234 1985,438 2161,438 2161,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14376_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14376_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14376_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14376_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14376_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14376_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14377" ulx="2162" uly="234" lrx="2282" lry="438" points="2162,234 2162,438 2282,438 2282,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14377_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14377_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14377_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14378" ulx="2283" uly="234" lrx="2551" lry="438" points="2283,234 2283,438 2551,438 2551,234" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14378_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14378_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14378_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14378_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14378_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14378_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14378_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14378_8"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_2" ulx="216" uly="403" lrx="2597" lry="627">
+                        <zone type="word" xml:id="zone-w_Fontenay_14379" ulx="216" uly="403" lrx="597" lry="627" points="216,403 216,627 597,627 597,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_9"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_10"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_11"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_12"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14379_13"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14380" ulx="598" uly="403" lrx="642" lry="627" points="598,403 598,627 642,627 642,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14380_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14381" ulx="643" uly="403" lrx="954" lry="627" points="643,403 643,627 954,627 954,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_9"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14381_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14382" ulx="955" uly="403" lrx="1152" lry="627" points="955,403 955,627 1152,627 1152,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14382_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14382_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14382_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14382_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14382_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14382_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14383" ulx="1153" uly="403" lrx="1201" lry="627" points="1153,403 1153,627 1201,627 1201,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14383_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14384" ulx="1202" uly="403" lrx="1362" lry="627" points="1202,403 1202,627 1362,627 1362,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14384_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14384_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14384_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14384_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14384_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14385" ulx="1363" uly="403" lrx="1662" lry="627" points="1363,403 1363,627 1662,627 1662,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_9"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14385_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14386" ulx="1663" uly="403" lrx="1769" lry="627" points="1663,403 1663,627 1769,627 1769,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14386_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14386_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14386_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14387" ulx="1770" uly="403" lrx="1982" lry="627" points="1770,403 1770,627 1982,627 1982,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14387_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14387_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14387_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14387_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14387_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14387_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14388" ulx="1983" uly="403" lrx="2052" lry="627" points="1983,403 1983,627 2052,627 2052,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14388_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14388_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14389" ulx="2053" uly="403" lrx="2215" lry="627" points="2053,403 2053,627 2215,627 2215,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14389_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14389_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14389_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14389_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14389_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14390" ulx="2216" uly="403" lrx="2450" lry="627" points="2216,403 2216,627 2450,627 2450,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14390_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14390_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14390_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14390_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14390_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14390_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2003" ulx="2451" uly="403" lrx="2467" lry="627" points="2451,403 2451,627 2467,627 2467,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2003_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14391" ulx="2468" uly="403" lrx="2597" lry="627" points="2468,403 2468,627 2597,627 2597,403" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14391_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14391_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14391_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14391_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_3" ulx="203" uly="590" lrx="2567" lry="834">
+                        <zone type="word" xml:id="zone-w_Fontenay_14392" ulx="203" uly="590" lrx="324" lry="834" points="203,590 203,834 324,834 324,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14392_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14392_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14392_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14393" ulx="325" uly="590" lrx="476" lry="834" points="325,590 325,834 476,834 476,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14393_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14393_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14393_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14393_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14394" ulx="477" uly="590" lrx="684" lry="834" points="477,590 477,834 684,834 684,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14394_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14394_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14394_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14394_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14394_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14394_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14395" ulx="685" uly="590" lrx="909" lry="834" points="685,590 685,834 909,834 909,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14395_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14395_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14395_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14395_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14395_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14395_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14395_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14396" ulx="910" uly="590" lrx="1058" lry="834" points="910,590 910,834 1058,834 1058,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14396_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14396_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14396_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14396_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14397" ulx="1059" uly="590" lrx="1238" lry="834" points="1059,590 1059,834 1238,834 1238,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14397_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14397_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14397_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14397_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14397_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14398" ulx="1239" uly="590" lrx="1448" lry="834" points="1239,590 1239,834 1448,834 1448,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14398_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14398_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14398_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14398_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14398_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14398_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14398_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14399" ulx="1449" uly="590" lrx="1763" lry="834" points="1449,590 1449,834 1763,834 1763,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_9"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_10"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_11"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14399_12"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14400" ulx="1764" uly="590" lrx="1843" lry="834" points="1764,590 1764,834 1843,834 1843,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14400_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14400_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14401" ulx="1844" uly="590" lrx="2028" lry="834" points="1844,590 1844,834 2028,834 2028,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14401_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14401_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14401_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14401_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14401_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14401_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14402" ulx="2029" uly="590" lrx="2140" lry="834" points="2029,590 2029,834 2140,834 2140,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14402_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14402_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14402_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14403" ulx="2141" uly="590" lrx="2293" lry="834" points="2141,590 2141,834 2293,834 2293,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14403_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14403_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14403_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14403_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14403_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14404" ulx="2294" uly="590" lrx="2430" lry="834" points="2294,590 2294,834 2430,834 2430,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14404_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14404_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14404_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14404_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14405" ulx="2431" uly="590" lrx="2567" lry="834" points="2431,590 2431,834 2567,834 2567,590" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14405_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14405_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14405_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14405_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_4" ulx="220" uly="864" lrx="2521" lry="1000">
+                        <zone type="word" xml:id="zone-w_Fontenay_14406" ulx="220" uly="864" lrx="480" lry="1000" points="220,864 220,1000 480,1000 480,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14406_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2004" ulx="481" uly="864" lrx="511" lry="1000" points="481,864 481,1000 511,1000 511,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2004_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14407" ulx="512" uly="864" lrx="613" lry="1000" points="512,864 512,1000 613,1000 613,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14407_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14407_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14407_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14408" ulx="614" uly="864" lrx="757" lry="1000" points="614,864 614,1000 757,1000 757,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14408_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14408_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14408_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14408_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14408_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14409" ulx="758" uly="864" lrx="797" lry="1000" points="758,864 758,1000 797,1000 797,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14409_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2005" ulx="798" uly="864" lrx="806" lry="1000" points="798,864 798,1000 806,1000 806,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2005_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14410" ulx="807" uly="864" lrx="876" lry="1000" points="807,864 807,1000 876,1000 876,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14410_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14410_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14411" ulx="877" uly="864" lrx="964" lry="1000" points="877,864 877,1000 964,1000 964,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14411_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14411_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14411_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2006" ulx="965" uly="864" lrx="979" lry="1000" points="965,864 965,1000 979,1000 979,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2006_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14412" ulx="980" uly="864" lrx="1267" lry="1000" points="980,864 980,1000 1267,1000 1267,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14412_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14413" ulx="1268" uly="864" lrx="1404" lry="1000" points="1268,864 1268,1000 1404,1000 1404,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14413_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14413_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14413_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14413_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14414" ulx="1405" uly="864" lrx="1455" lry="1000" points="1405,864 1405,1000 1455,1000 1455,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14414_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14415" ulx="1456" uly="864" lrx="1597" lry="1000" points="1456,864 1456,1000 1597,1000 1597,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14415_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14415_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14415_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14415_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14415_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14416" ulx="1598" uly="864" lrx="1733" lry="1000" points="1598,864 1598,1000 1733,1000 1733,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14416_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14416_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14416_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14416_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14417" ulx="1734" uly="864" lrx="1921" lry="1000" points="1734,864 1734,1000 1921,1000 1921,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14417_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14417_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14417_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14417_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14417_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14417_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14417_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14418" ulx="1922" uly="864" lrx="2184" lry="1000" points="1922,864 1922,1000 2184,1000 2184,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14418_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14418_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14418_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14418_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14418_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14418_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14418_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14418_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14419" ulx="2185" uly="864" lrx="2387" lry="1000" points="2185,864 2185,1000 2387,1000 2387,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14419_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14419_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14419_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14419_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14419_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14419_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14420" ulx="2388" uly="864" lrx="2464" lry="1000" points="2388,864 2388,1000 2464,1000 2464,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14420_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14420_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14421" ulx="2465" uly="864" lrx="2521" lry="1000" points="2465,864 2465,1000 2521,1000 2521,864" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14421_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14421_2"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_5" ulx="221" uly="1057" lrx="2549" lry="1218">
+                        <zone type="word" xml:id="zone-w_Fontenay_14422" ulx="221" uly="1057" lrx="374" lry="1218" points="221,1057 221,1218 374,1218 374,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14422_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14422_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14422_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14422_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14422_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14422_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14423" ulx="375" uly="1057" lrx="622" lry="1218" points="375,1057 375,1218 622,1218 622,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14423_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14423_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14423_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14423_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14423_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14423_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14423_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14424" ulx="623" uly="1057" lrx="752" lry="1218" points="623,1057 623,1218 752,1218 752,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14424_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14424_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14424_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14424_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14425" ulx="753" uly="1057" lrx="914" lry="1218" points="753,1057 753,1218 914,1218 914,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14425_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14425_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14425_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14425_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14425_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14425_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14426" ulx="915" uly="1057" lrx="1113" lry="1218" points="915,1057 915,1218 1113,1218 1113,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14426_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14426_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14426_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14426_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14426_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14426_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14426_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14427" ulx="1114" uly="1057" lrx="1364" lry="1218" points="1114,1057 1114,1218 1364,1218 1364,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14427_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14427_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14427_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14427_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14427_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14427_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14427_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14428" ulx="1365" uly="1057" lrx="1414" lry="1218" points="1365,1057 1365,1218 1414,1218 1414,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14428_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14429" ulx="1415" uly="1057" lrx="1468" lry="1218" points="1415,1057 1415,1218 1468,1218 1468,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14429_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14430" ulx="1469" uly="1057" lrx="1585" lry="1218" points="1469,1057 1469,1218 1585,1218 1585,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14430_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14430_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14430_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14430_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14431" ulx="1586" uly="1057" lrx="1695" lry="1218" points="1586,1057 1586,1218 1695,1218 1695,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14431_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14431_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14431_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14432" ulx="1696" uly="1057" lrx="1892" lry="1218" points="1696,1057 1696,1218 1892,1218 1892,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14432_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14432_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14432_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14432_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14432_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14432_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14432_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14433" ulx="1893" uly="1057" lrx="2095" lry="1218" points="1893,1057 1893,1218 2095,1218 2095,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14433_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14433_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14433_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14433_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14433_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14433_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14433_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14434" ulx="2096" uly="1057" lrx="2318" lry="1218" points="2096,1057 2096,1218 2318,1218 2318,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14434_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14434_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14434_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14434_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14434_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14434_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14434_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14435" ulx="2319" uly="1057" lrx="2397" lry="1218" points="2319,1057 2319,1218 2397,1218 2397,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14435_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14435_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14436" ulx="2398" uly="1057" lrx="2549" lry="1218" points="2398,1057 2398,1218 2549,1218 2549,1057" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14436_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14436_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14436_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14436_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14436_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14436_6"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_6" ulx="224" uly="1258" lrx="2549" lry="1428">
+                        <zone type="word" xml:id="zone-w_Fontenay_14437" ulx="224" uly="1258" lrx="423" lry="1428" points="224,1258 224,1428 423,1428 423,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14437_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14437_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14437_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14437_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14437_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14437_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14438" ulx="424" uly="1258" lrx="567" lry="1428" points="424,1258 424,1428 567,1428 567,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14438_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14438_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14438_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14438_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14438_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14439" ulx="568" uly="1258" lrx="707" lry="1428" points="568,1258 568,1428 707,1428 707,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14439_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14439_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14439_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14439_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14439_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14440" ulx="708" uly="1258" lrx="1023" lry="1428" points="708,1258 708,1428 1023,1428 1023,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_9"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14440_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14441" ulx="1024" uly="1258" lrx="1184" lry="1428" points="1024,1258 1024,1428 1184,1428 1184,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14441_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14441_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14441_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14441_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14441_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14442" ulx="1185" uly="1258" lrx="1332" lry="1428" points="1185,1258 1185,1428 1332,1428 1332,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14442_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14442_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14442_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14442_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14443" ulx="1333" uly="1258" lrx="1374" lry="1428" points="1333,1258 1333,1428 1374,1428 1374,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14443_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2007" ulx="1375" uly="1258" lrx="1391" lry="1428" points="1375,1258 1375,1428 1391,1428 1391,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2007_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14444" ulx="1392" uly="1258" lrx="1489" lry="1428" points="1392,1258 1392,1428 1489,1428 1489,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14444_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14444_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14444_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14445" ulx="1490" uly="1258" lrx="1510" lry="1428" points="1490,1258 1490,1428 1510,1428 1510,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14445_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14445_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2008" ulx="1511" uly="1258" lrx="1522" lry="1428" points="1511,1258 1511,1428 1522,1428 1522,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2008_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2009" ulx="1523" uly="1258" lrx="1534" lry="1428" points="1523,1258 1523,1428 1534,1428 1534,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2009_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14446" ulx="1535" uly="1258" lrx="1548" lry="1428" points="1535,1258 1535,1428 1548,1428 1548,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14446_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14446_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2010" ulx="1549" uly="1258" lrx="1559" lry="1428" points="1549,1258 1549,1428 1559,1428 1559,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2010_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14447" ulx="1560" uly="1258" lrx="1730" lry="1428" points="1560,1258 1560,1428 1730,1428 1730,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14447_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14447_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14447_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14447_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14447_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14448" ulx="1731" uly="1258" lrx="2018" lry="1428" points="1731,1258 1731,1428 2018,1428 2018,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14448_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14449" ulx="2019" uly="1258" lrx="2093" lry="1428" points="2019,1258 2019,1428 2093,1428 2093,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14449_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14449_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14450" ulx="2094" uly="1258" lrx="2243" lry="1428" points="2094,1258 2094,1428 2243,1428 2243,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14450_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14450_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14450_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14450_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14451" ulx="2244" uly="1258" lrx="2443" lry="1428" points="2244,1258 2244,1428 2443,1428 2443,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14451_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14451_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14451_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14451_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14451_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14451_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2011" ulx="2444" uly="1258" lrx="2456" lry="1428" points="2444,1258 2444,1428 2456,1428 2456,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2011_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14452" ulx="2457" uly="1258" lrx="2549" lry="1428" points="2457,1258 2457,1428 2549,1428 2549,1258" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14452_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14452_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14452_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14452_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_7" ulx="215" uly="1461" lrx="2544" lry="1608">
+                        <zone type="word" xml:id="zone-w_Fontenay_14453" ulx="215" uly="1461" lrx="463" lry="1608" points="215,1461 215,1608 463,1608 463,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14453_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14453_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14453_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14453_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14453_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14453_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14453_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14453_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14454" ulx="464" uly="1461" lrx="662" lry="1608" points="464,1461 464,1608 662,1608 662,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14454_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14454_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14454_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14454_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14454_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14454_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14454_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14455" ulx="663" uly="1461" lrx="880" lry="1608" points="663,1461 663,1608 880,1608 880,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14455_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14455_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14455_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14455_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14455_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14455_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14455_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2012" ulx="881" uly="1461" lrx="899" lry="1608" points="881,1461 881,1608 899,1608 899,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2012_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14456" ulx="900" uly="1461" lrx="1010" lry="1608" points="900,1461 900,1608 1010,1608 1010,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14456_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14456_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14457" ulx="1011" uly="1461" lrx="1060" lry="1608" points="1011,1461 1011,1608 1060,1608 1060,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14457_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14458" ulx="1061" uly="1461" lrx="1217" lry="1608" points="1061,1461 1061,1608 1217,1608 1217,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14458_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14458_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14458_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14458_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14458_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14459" ulx="1218" uly="1461" lrx="1262" lry="1608" points="1218,1461 1218,1608 1262,1608 1262,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14459_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2013" ulx="1263" uly="1461" lrx="1276" lry="1608" points="1263,1461 1263,1608 1276,1608 1276,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2013_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14460" ulx="1277" uly="1461" lrx="1487" lry="1608" points="1277,1461 1277,1608 1487,1608 1487,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14460_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14460_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14460_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14460_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14460_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14461" ulx="1488" uly="1461" lrx="1538" lry="1608" points="1488,1461 1488,1608 1538,1608 1538,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14461_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14462" ulx="1539" uly="1461" lrx="1807" lry="1608" points="1539,1461 1539,1608 1807,1608 1807,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14462_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14463" ulx="1808" uly="1461" lrx="1905" lry="1608" points="1808,1461 1808,1608 1905,1608 1905,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14463_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14463_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14464" ulx="1906" uly="1461" lrx="2057" lry="1608" points="1906,1461 1906,1608 2057,1608 2057,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14464_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14464_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14464_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14464_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2014" ulx="2058" uly="1461" lrx="2085" lry="1608" points="2058,1461 2058,1608 2085,1608 2085,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2014_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14465" ulx="2086" uly="1461" lrx="2265" lry="1608" points="2086,1461 2086,1608 2265,1608 2265,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14465_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14465_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14465_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14465_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14465_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14465_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14466" ulx="2266" uly="1461" lrx="2481" lry="1608" points="2266,1461 2266,1608 2481,1608 2481,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14466_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14466_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14466_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14466_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14466_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14466_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14467" ulx="2482" uly="1461" lrx="2544" lry="1608" points="2482,1461 2482,1608 2544,1608 2544,1461" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14467_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_8" ulx="228" uly="1612" lrx="2574" lry="1825">
+                        <zone type="word" xml:id="zone-w_Fontenay_14468" ulx="228" uly="1612" lrx="414" lry="1825" points="228,1612 228,1825 414,1825 414,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14468_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14468_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14468_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14468_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14468_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14468_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14468_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14469" ulx="415" uly="1612" lrx="524" lry="1825" points="415,1612 415,1825 524,1825 524,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14469_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14469_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14469_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14470" ulx="525" uly="1612" lrx="810" lry="1825" points="525,1612 525,1825 810,1825 810,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14470_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14470_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14470_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14470_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14470_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14470_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14470_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14470_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14471" ulx="811" uly="1612" lrx="859" lry="1825" points="811,1612 811,1825 859,1825 859,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14471_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14472" ulx="860" uly="1612" lrx="947" lry="1825" points="860,1612 860,1825 947,1825 947,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14472_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14472_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14472_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14473" ulx="948" uly="1612" lrx="1222" lry="1825" points="948,1612 948,1825 1222,1825 1222,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14473_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14473_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14473_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14473_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14473_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14473_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14473_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14474" ulx="1223" uly="1612" lrx="1284" lry="1825" points="1223,1612 1223,1825 1284,1825 1284,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14474_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14475" ulx="1285" uly="1612" lrx="1469" lry="1825" points="1285,1612 1285,1825 1469,1825 1469,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14475_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14475_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14475_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14475_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14475_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14476" ulx="1470" uly="1612" lrx="1607" lry="1825" points="1470,1612 1470,1825 1607,1825 1607,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14476_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14476_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14476_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14476_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14477" ulx="1608" uly="1612" lrx="1662" lry="1825" points="1608,1612 1608,1825 1662,1825 1662,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14477_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14478" ulx="1663" uly="1612" lrx="1917" lry="1825" points="1663,1612 1663,1825 1917,1825 1917,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14478_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14478_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14478_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14478_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14478_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14478_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14478_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14479" ulx="1918" uly="1612" lrx="1999" lry="1825" points="1918,1612 1918,1825 1999,1825 1999,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14479_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14479_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14480" ulx="2000" uly="1612" lrx="2319" lry="1825" points="2000,1612 2000,1825 2319,1825 2319,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_9"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_10"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14480_11"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14481" ulx="2320" uly="1612" lrx="2574" lry="1825" points="2320,1612 2320,1825 2574,1825 2574,1612" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14481_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14481_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14481_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14481_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14481_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14481_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14481_7"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_9" ulx="228" uly="1863" lrx="2583" lry="2016">
+                        <zone type="word" xml:id="zone-w_Fontenay_14482" ulx="228" uly="1863" lrx="336" lry="2016" points="228,1863 228,2016 336,2016 336,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14482_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14482_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14482_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14482_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14482_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14483" ulx="337" uly="1863" lrx="477" lry="2016" points="337,1863 337,2016 477,2016 477,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14483_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14483_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14483_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14483_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14484" ulx="478" uly="1863" lrx="796" lry="2016" points="478,1863 478,2016 796,2016 796,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14484_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2015" ulx="797" uly="1863" lrx="821" lry="2016" points="797,1863 797,2016 821,2016 821,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2015_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14485" ulx="822" uly="1863" lrx="961" lry="2016" points="822,1863 822,2016 961,2016 961,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14485_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14485_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14485_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14485_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14486" ulx="962" uly="1863" lrx="1059" lry="2016" points="962,1863 962,2016 1059,2016 1059,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14486_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14486_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14486_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14487" ulx="1060" uly="1863" lrx="1230" lry="2016" points="1060,1863 1060,2016 1230,2016 1230,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14487_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14487_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14487_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14487_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14487_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14487_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14488" ulx="1231" uly="1863" lrx="1389" lry="2016" points="1231,1863 1231,2016 1389,2016 1389,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14488_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14488_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14488_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14488_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14489" ulx="1390" uly="1863" lrx="1536" lry="2016" points="1390,1863 1390,2016 1536,2016 1536,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14489_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14489_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14489_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14489_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14490" ulx="1537" uly="1863" lrx="1732" lry="2016" points="1537,1863 1537,2016 1732,2016 1732,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14490_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14490_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14490_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14490_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14490_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14491" ulx="1733" uly="1863" lrx="1951" lry="2016" points="1733,1863 1733,2016 1951,2016 1951,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14491_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14491_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14491_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14491_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14491_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14491_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14491_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2016" ulx="1952" uly="1863" lrx="1968" lry="2016" points="1952,1863 1952,2016 1968,2016 1968,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2016_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14492" ulx="1969" uly="1863" lrx="2184" lry="2016" points="1969,1863 1969,2016 2184,2016 2184,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14492_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14492_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14492_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14492_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14492_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14492_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14492_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2017" ulx="2185" uly="1863" lrx="2206" lry="2016" points="2185,1863 2185,2016 2206,2016 2206,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2017_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14493" ulx="2207" uly="1863" lrx="2378" lry="2016" points="2207,1863 2207,2016 2378,2016 2378,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14493_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14493_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14493_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14493_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14493_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14493_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2018" ulx="2379" uly="1863" lrx="2399" lry="2016" points="2379,1863 2379,2016 2399,2016 2399,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2018_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14494" ulx="2400" uly="1863" lrx="2568" lry="2016" points="2400,1863 2400,2016 2568,2016 2568,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14494_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14494_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14494_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14494_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14494_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2019" ulx="2569" uly="1863" lrx="2583" lry="2016" points="2569,1863 2569,2016 2583,2016 2583,1863" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2019_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_10" ulx="230" uly="2012" lrx="2554" lry="2244">
+                        <zone type="word" xml:id="zone-w_Fontenay_14495" ulx="230" uly="2012" lrx="489" lry="2244" points="230,2012 230,2244 489,2244 489,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14495_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14495_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14495_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14495_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14495_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14495_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14495_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14496" ulx="490" uly="2012" lrx="698" lry="2244" points="490,2012 490,2244 698,2244 698,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14496_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14496_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14496_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14496_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14496_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14496_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14496_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2020" ulx="699" uly="2012" lrx="723" lry="2244" points="699,2012 699,2244 723,2244 723,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2020_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14497" ulx="724" uly="2012" lrx="1000" lry="2244" points="724,2012 724,2244 1000,2244 1000,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14497_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14497_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14497_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14497_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14497_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14497_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14497_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14497_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14498" ulx="1001" uly="2012" lrx="1073" lry="2244" points="1001,2012 1001,2244 1073,2244 1073,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14498_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14498_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14499" ulx="1074" uly="2012" lrx="1333" lry="2244" points="1074,2012 1074,2244 1333,2244 1333,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14499_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14499_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14499_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14499_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14499_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14499_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14499_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14499_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2021" ulx="1334" uly="2012" lrx="1358" lry="2244" points="1334,2012 1334,2244 1358,2244 1358,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2021_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14500" ulx="1359" uly="2012" lrx="1549" lry="2244" points="1359,2012 1359,2244 1549,2244 1549,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14500_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14500_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14500_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14500_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14500_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14501" ulx="1550" uly="2012" lrx="1638" lry="2244" points="1550,2012 1550,2244 1638,2244 1638,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14501_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14501_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14502" ulx="1639" uly="2012" lrx="1858" lry="2244" points="1639,2012 1639,2244 1858,2244 1858,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14502_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14502_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14502_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14502_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14502_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14502_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14502_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2022" ulx="1859" uly="2012" lrx="1880" lry="2244" points="1859,2012 1859,2244 1880,2244 1880,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2022_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14503" ulx="1881" uly="2012" lrx="2077" lry="2244" points="1881,2012 1881,2244 2077,2244 2077,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14503_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14503_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14503_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14503_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14503_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14503_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14504" ulx="2078" uly="2012" lrx="2173" lry="2244" points="2078,2012 2078,2244 2173,2244 2173,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14504_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14504_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14505" ulx="2174" uly="2012" lrx="2346" lry="2244" points="2174,2012 2174,2244 2346,2244 2346,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14505_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14505_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14505_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14505_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14505_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2023" ulx="2347" uly="2012" lrx="2367" lry="2244" points="2347,2012 2347,2244 2367,2244 2367,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2023_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14506" ulx="2368" uly="2012" lrx="2536" lry="2244" points="2368,2012 2368,2244 2536,2244 2536,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14506_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14506_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14506_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14506_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14506_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14506_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2024" ulx="2537" uly="2012" lrx="2554" lry="2244" points="2537,2012 2537,2244 2554,2244 2554,2012" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2024_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_11" ulx="219" uly="2173" lrx="2574" lry="2439">
+                        <zone type="word" xml:id="zone-w_Fontenay_14507" ulx="219" uly="2173" lrx="447" lry="2439" points="219,2173 219,2439 447,2439 447,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14507_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14507_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14507_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14507_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14507_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14508" ulx="448" uly="2173" lrx="524" lry="2439" points="448,2173 448,2439 524,2439 524,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14508_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14508_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14509" ulx="525" uly="2173" lrx="713" lry="2439" points="525,2173 525,2439 713,2439 713,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14509_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14509_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14509_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14509_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14509_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14509_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2025" ulx="714" uly="2173" lrx="740" lry="2439" points="714,2173 714,2439 740,2439 740,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2025_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14510" ulx="741" uly="2173" lrx="961" lry="2439" points="741,2173 741,2439 961,2439 961,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14510_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14510_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14510_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14510_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14510_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14510_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14511" ulx="962" uly="2173" lrx="1147" lry="2439" points="962,2173 962,2439 1147,2439 1147,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14511_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14511_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14511_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14511_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14511_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14511_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14511_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2026" ulx="1148" uly="2173" lrx="1167" lry="2439" points="1148,2173 1148,2439 1167,2439 1167,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2026_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14512" ulx="1168" uly="2173" lrx="1356" lry="2439" points="1168,2173 1168,2439 1356,2439 1356,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14512_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14512_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14512_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14512_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14512_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14512_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14513" ulx="1357" uly="2173" lrx="1449" lry="2439" points="1357,2173 1357,2439 1449,2439 1449,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14513_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14513_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14514" ulx="1450" uly="2173" lrx="1679" lry="2439" points="1450,2173 1450,2439 1679,2439 1679,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14514_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14514_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14514_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14514_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14514_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14514_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14514_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2027" ulx="1680" uly="2173" lrx="1700" lry="2439" points="1680,2173 1680,2439 1700,2439 1700,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2027_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14515" ulx="1701" uly="2173" lrx="1943" lry="2439" points="1701,2173 1701,2439 1943,2439 1943,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14515_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14515_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14515_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14515_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14515_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14515_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14515_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14515_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14516" ulx="1944" uly="2173" lrx="2046" lry="2439" points="1944,2173 1944,2439 2046,2439 2046,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14516_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14516_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14517" ulx="2047" uly="2173" lrx="2297" lry="2439" points="2047,2173 2047,2439 2297,2439 2297,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14517_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14517_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14517_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14517_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14517_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14517_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14517_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14517_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2028" ulx="2298" uly="2173" lrx="2315" lry="2439" points="2298,2173 2298,2439 2315,2439 2315,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2028_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14518" ulx="2316" uly="2173" lrx="2574" lry="2439" points="2316,2173 2316,2439 2574,2439 2574,2173" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14518_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14518_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14518_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14518_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14518_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14518_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14518_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14518_8"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_12" ulx="202" uly="2390" lrx="2626" lry="2671">
+                        <zone type="word" xml:id="zone-w_Fontenay_14519" ulx="202" uly="2390" lrx="317" lry="2671" points="202,2390 202,2671 317,2671 317,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14519_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14519_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14520" ulx="318" uly="2390" lrx="577" lry="2671" points="318,2390 318,2671 577,2671 577,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14520_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14520_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14520_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14520_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14520_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14520_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14520_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14520_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2029" ulx="578" uly="2390" lrx="599" lry="2671" points="578,2390 578,2671 599,2671 599,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2029_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14521" ulx="600" uly="2390" lrx="883" lry="2671" points="600,2390 600,2671 883,2671 883,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14521_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14521_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14521_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14521_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14521_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14521_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14521_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14522" ulx="884" uly="2390" lrx="969" lry="2671" points="884,2390 884,2671 969,2671 969,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14522_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14522_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14523" ulx="970" uly="2390" lrx="1089" lry="2671" points="970,2390 970,2671 1089,2671 1089,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14523_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14523_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14523_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14523_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2030" ulx="1090" uly="2390" lrx="1107" lry="2671" points="1090,2390 1090,2671 1107,2671 1107,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2030_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14524" ulx="1108" uly="2390" lrx="1264" lry="2671" points="1108,2390 1108,2671 1264,2671 1264,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14524_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14524_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14524_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14524_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14524_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14525" ulx="1265" uly="2390" lrx="1462" lry="2671" points="1265,2390 1265,2671 1462,2671 1462,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14525_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14525_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14525_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14525_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14525_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14525_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14525_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14526" ulx="1463" uly="2390" lrx="1545" lry="2671" points="1463,2390 1463,2671 1545,2671 1545,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14526_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14526_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14527" ulx="1546" uly="2390" lrx="1672" lry="2671" points="1546,2390 1546,2671 1672,2671 1672,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14527_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14527_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14527_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14527_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2031" ulx="1673" uly="2390" lrx="1696" lry="2671" points="1673,2390 1673,2671 1696,2671 1696,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2031_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14528" ulx="1697" uly="2390" lrx="1875" lry="2671" points="1697,2390 1697,2671 1875,2671 1875,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14528_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14528_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14528_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14528_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14528_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14529" ulx="1876" uly="2390" lrx="1958" lry="2671" points="1876,2390 1876,2671 1958,2671 1958,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14529_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14529_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14530" ulx="1959" uly="2390" lrx="2116" lry="2671" points="1959,2390 1959,2671 2116,2671 2116,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14530_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14530_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14530_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14530_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14530_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14530_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2032" ulx="2117" uly="2390" lrx="2134" lry="2671" points="2117,2390 2117,2671 2134,2671 2134,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2032_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14531" ulx="2135" uly="2390" lrx="2310" lry="2671" points="2135,2390 2135,2671 2310,2671 2310,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14531_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14531_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14531_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14531_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14531_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14531_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14532" ulx="2311" uly="2390" lrx="2384" lry="2671" points="2311,2390 2311,2671 2384,2671 2384,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14532_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14532_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14533" ulx="2385" uly="2390" lrx="2606" lry="2671" points="2385,2390 2385,2671 2606,2671 2606,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14533_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14533_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14533_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14533_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14533_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14533_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14533_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2033" ulx="2607" uly="2390" lrx="2626" lry="2671" points="2607,2390 2607,2671 2626,2671 2626,2390" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2033_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_13" ulx="233" uly="2715" lrx="2601" lry="2870">
+                        <zone type="word" xml:id="zone-w_Fontenay_14534" ulx="233" uly="2715" lrx="349" lry="2870" points="233,2715 233,2870 349,2870 349,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14534_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14534_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14535" ulx="350" uly="2715" lrx="481" lry="2870" points="350,2715 350,2870 481,2870 481,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14535_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14535_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14535_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14535_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14536" ulx="482" uly="2715" lrx="562" lry="2870" points="482,2715 482,2870 562,2870 562,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14536_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14536_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14537" ulx="563" uly="2715" lrx="691" lry="2870" points="563,2715 563,2870 691,2870 691,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14537_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14537_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14537_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14537_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14538" ulx="692" uly="2715" lrx="912" lry="2870" points="692,2715 692,2870 912,2870 912,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14538_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14538_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14538_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14538_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14538_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14538_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14539" ulx="913" uly="2715" lrx="976" lry="2870" points="913,2715 913,2870 976,2870 976,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14539_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14539_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14540" ulx="977" uly="2715" lrx="1140" lry="2870" points="977,2715 977,2870 1140,2870 1140,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14540_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14540_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14540_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14540_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14540_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14540_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2034" ulx="1141" uly="2715" lrx="1168" lry="2870" points="1141,2715 1141,2870 1168,2870 1168,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2034_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14541" ulx="1169" uly="2715" lrx="1345" lry="2870" points="1169,2715 1169,2870 1345,2870 1345,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14541_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14541_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14541_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14541_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14541_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14541_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14541_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14542" ulx="1346" uly="2715" lrx="1464" lry="2870" points="1346,2715 1346,2870 1464,2870 1464,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14542_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14542_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14542_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14543" ulx="1465" uly="2715" lrx="1693" lry="2870" points="1465,2715 1465,2870 1693,2870 1693,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14543_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14543_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14543_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14543_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14543_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14543_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14543_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14543_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14544" ulx="1694" uly="2715" lrx="1952" lry="2870" points="1694,2715 1694,2870 1952,2870 1952,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14544_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14544_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14544_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14544_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14544_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14544_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14544_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14544_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2035" ulx="1953" uly="2715" lrx="1981" lry="2870" points="1953,2715 1953,2870 1981,2870 1981,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2035_1"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14545" ulx="1982" uly="2715" lrx="2137" lry="2870" points="1982,2715 1982,2870 2137,2870 2137,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14545_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14545_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14545_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14545_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14546" ulx="2138" uly="2715" lrx="2223" lry="2870" points="2138,2715 2138,2870 2223,2870 2223,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14546_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14546_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14547" ulx="2224" uly="2715" lrx="2601" lry="2870" points="2224,2715 2224,2870 2601,2870 2601,2715" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_1"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_2"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_3"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_4"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_5"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_6"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_7"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_8"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_9"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_10"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14547_11"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_pb_Fontenay_67_1_14" ulx="258" uly="2940" lrx="713" lry="3114">
+                        <zone type="word" xml:id="zone-w_Fontenay_14548" ulx="258" uly="2955" lrx="364" lry="3114" points="258,2955 257,2964 257,2968 257,2972 258,2975 258,2978 258,2982 257,2986 257,3001 257,3010 259,3014 258,3017 257,3023 258,3026 260,3029 257,3033 256,3042 256,3045 255,3050 257,3055 258,3060 258,3064 259,3068 259,3071 257,3074 259,3078 257,3083 257,3090 259,3098 257,3102 258,3105 257,3110 259,3113 258,3114 364,3114 364,3111 363,3108 364,3104 365,3101 363,3098 363,3092 363,3089 363,3083 364,3077 365,3074 367,3069 370,3063 370,3060 368,3054 369,3051 367,3047 365,3043 366,3039 366,3036 365,3027 365,3023 365,3020 363,3012 363,3008 365,3005 365,3000 364,2995 363,2992 364,2987 364,2983 366,2980 363,2975 363,2972 364,2967 362,2963 363,2959 364,2955" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14548_1" ulx="258" uly="2956" lrx="321" lry="3114" points="258,2956 257,2964 257,2968 257,2972 258,2975 258,2978 258,2982 257,2986 257,3001 257,3010 259,3014 258,3017 257,3023 258,3026 260,3029 257,3033 256,3042 256,3045 255,3050 257,3055 258,3060 258,3064 259,3068 259,3071 257,3074 259,3078 257,3083 257,3090 259,3098 257,3102 258,3105 257,3110 259,3113 258,3114 321,3114 320,3111 320,3101 321,3096 320,3093 321,3084 321,3078 321,3075 322,3068 321,3065 326,3058 321,3053 322,3050 324,3042 324,3037 320,3030 321,3026 322,3023 320,3019 320,3016 322,3013 320,3010 321,3005 317,3000 320,2992 320,2988 321,2976 320,2973 322,2970 320,2962 323,2958 321,2956"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14548_2" ulx="322" uly="2956" lrx="339" lry="3112" points="322,2956 323,2958 323,2964 321,2972 321,2979 323,2983 320,2988 322,2992 322,2995 322,2999 322,3003 321,3009 321,3017 321,3020 322,3023 320,3028 323,3034 324,3037 324,3042 322,3050 326,3058 322,3064 321,3077 323,3084 321,3089 321,3094 323,3097 321,3102 323,3109 322,3112 339,3112 338,3101 338,3098 338,3093 342,3089 338,3084 338,3081 338,3075 340,3070 338,3065 342,3060 338,3054 342,3050 343,3040 344,3037 340,3030 337,3024 338,3013 338,3009 339,3006 340,3003 339,3000 339,2997 343,2992 338,2984 340,2979 339,2971 338,2968 339,2956"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14548_3" ulx="340" uly="2955" lrx="364" lry="3111" points="340,2955 341,2957 341,2962 338,2968 341,2972 340,2976 341,2984 344,2990 339,2998 341,3004 339,3009 341,3013 339,3016 337,3026 340,3030 344,3037 343,3040 342,3050 339,3054 342,3060 339,3063 341,3068 341,3078 338,3082 338,3085 342,3090 340,3094 339,3097 341,3101 341,3104 339,3107 340,3110 340,3111 364,3111 363,3108 364,3104 365,3101 363,3098 363,3092 363,3089 363,3083 364,3077 365,3074 367,3069 370,3063 370,3060 368,3054 369,3051 367,3047 365,3043 366,3039 366,3036 365,3027 365,3023 365,3020 363,3012 363,3008 365,3005 365,3000 364,2995 363,2992 364,2987 364,2983 366,2980 363,2975 363,2972 364,2967 362,2963 363,2959 364,2955"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2036" ulx="365" uly="2954" lrx="366" lry="3110" points="365,2954 364,2957 364,2961 366,2965 364,2970 363,2975 366,2980 366,2983 365,2986 365,2989 365,2992 364,2997 364,3002 366,3007 364,3010 364,3014 365,3018 366,3025 364,3029 366,3035 365,3038 365,3042 367,3046 369,3051 368,3054 370,3060 370,3063 367,3069 365,3074 365,3078 364,3085 364,3088 364,3094 364,3099 366,3106 364,3109 365,3110 366,3110 367,3109 365,3101 367,3093 365,3090 367,3084 366,3073 367,3069 370,3063 370,3060 368,3054 369,3051 367,3047 367,3043 367,3029 365,3026 367,3023 367,3019 365,3015 366,3008 365,3004 365,3000 367,2989 365,2981 365,2978 366,2975 367,2972 366,2969 366,2965 364,2961 366,2954" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2036_1" ulx="365" uly="2954" lrx="366" lry="3110" points="365,2954 364,2957 364,2961 366,2965 364,2970 363,2975 366,2980 366,2983 365,2986 365,2989 365,2992 364,2997 364,3002 366,3007 364,3010 364,3014 365,3018 366,3025 364,3029 366,3035 365,3038 365,3042 367,3046 369,3051 368,3054 370,3060 370,3063 367,3069 365,3074 365,3078 364,3085 364,3088 364,3094 364,3099 366,3106 364,3109 365,3110 366,3110 367,3109 365,3101 367,3093 365,3090 367,3084 366,3073 367,3069 370,3063 370,3060 368,3054 369,3051 367,3047 367,3043 367,3029 365,3026 367,3023 367,3019 365,3015 366,3008 365,3004 365,3000 367,2989 365,2981 365,2978 366,2975 367,2972 366,2969 366,2965 364,2961 366,2954"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14549" ulx="366" uly="2954" lrx="371" lry="3110" points="366,2954 364,2961 366,2965 366,2969 367,2972 366,2975 365,2978 365,2981 367,2989 365,3000 365,3004 366,3008 365,3015 367,3019 367,3023 365,3026 367,3029 367,3043 367,3047 369,3051 368,3054 370,3060 370,3063 367,3069 366,3073 367,3084 365,3090 367,3093 365,3101 367,3109 366,3110 371,3110 369,3108 372,3105 371,3082 369,3078 372,3074 372,3071 372,3052 371,3048 370,3041 368,3038 371,3026 370,3023 370,3020 370,2995 371,2989 370,2985 372,2981 371,2978 370,2974 371,2970 369,2966 370,2960 371,2956 371,2954" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14549_1" ulx="366" uly="2954" lrx="369" lry="3110" points="366,2954 364,2961 366,2965 366,2969 367,2972 366,2975 365,2978 365,2981 367,2989 365,3000 365,3004 366,3008 365,3015 367,3019 367,3023 365,3026 367,3029 367,3043 367,3047 369,3051 368,3054 370,3060 370,3063 367,3069 366,3073 367,3084 365,3090 367,3093 365,3101 367,3109 366,3110 369,3110 369,3108 369,3104 369,3101 367,3097 368,3089 371,3086 368,3081 370,3075 370,3072 370,3069 370,3063 370,3060 370,3056 370,3047 368,3039 368,3031 369,3025 370,3022 368,3017 371,3014 368,3002 368,2998 369,2994 368,2991 368,2986 370,2983 370,2979 370,2976 368,2968 369,2954"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14549_2" ulx="369" uly="2954" lrx="371" lry="3110" points="369,2954 368,2968 370,2976 370,2979 370,2983 368,2986 368,2991 369,2994 368,2998 368,3002 371,3014 368,3017 370,3022 369,3025 368,3031 368,3039 370,3047 370,3056 370,3060 370,3063 370,3069 370,3072 370,3075 368,3081 371,3086 368,3089 367,3097 369,3101 369,3104 369,3108 369,3110 371,3110 369,3108 372,3105 371,3082 369,3078 372,3074 372,3071 372,3052 371,3048 370,3041 368,3038 371,3026 370,3023 370,3020 370,2995 371,2989 370,2985 372,2981 371,2978 370,2974 371,2970 369,2966 370,2960 371,2956 371,2954"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2037" ulx="372" uly="2953" lrx="397" lry="3109" points="372,2953 371,2956 373,2960 371,2963 370,2967 372,2971 372,2975 372,2979 373,2987 373,2991 372,2995 371,2999 371,3010 373,3013 371,3016 371,3027 371,3030 368,3039 369,3042 372,3049 371,3057 371,3060 371,3064 373,3069 371,3086 372,3089 371,3093 371,3097 372,3100 373,3104 373,3108 372,3109 397,3109 397,3106 395,3103 397,3092 395,3088 398,3081 396,3077 396,3073 397,3070 396,3066 396,3063 396,3059 398,3054 397,3051 397,3046 397,3043 394,3039 395,3035 396,3032 396,3028 396,3022 398,3018 397,3013 396,3009 396,3004 396,3001 396,2994 398,2984 395,2980 396,2975 396,2969 397,2961 396,2956 397,2953" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2037_1" ulx="372" uly="2953" lrx="397" lry="3109" points="372,2953 371,2956 373,2960 371,2963 370,2967 372,2971 372,2975 372,2979 373,2987 373,2991 372,2995 371,2999 371,3010 373,3013 371,3016 371,3027 371,3030 368,3039 369,3042 372,3049 371,3057 371,3060 371,3064 373,3069 371,3086 372,3089 371,3093 371,3097 372,3100 373,3104 373,3108 372,3109 397,3109 397,3106 395,3103 397,3092 395,3088 398,3081 396,3077 396,3073 397,3070 396,3066 396,3063 396,3059 398,3054 397,3051 397,3046 397,3043 394,3039 395,3035 396,3032 396,3028 396,3022 398,3018 397,3013 396,3009 396,3004 396,3001 396,2994 398,2984 395,2980 396,2975 396,2969 397,2961 396,2956 397,2953"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14550" ulx="398" uly="2951" lrx="435" lry="3108" points="398,2951 398,2953 399,2959 397,2964 397,2972 398,2975 397,2987 399,2991 397,2995 397,2999 397,3003 397,3011 399,3017 397,3021 397,3024 396,3032 395,3035 394,3039 397,3043 397,3046 399,3052 397,3058 399,3062 396,3067 398,3071 397,3075 399,3078 399,3089 397,3093 398,3096 398,3099 398,3103 398,3108 435,3108 434,3105 434,3101 434,3098 434,3094 436,3091 436,3085 435,3082 432,3078 437,3070 433,3065 434,3060 435,3055 442,3047 438,3041 440,3037 439,3033 439,3029 434,3022 435,3019 432,3015 434,3010 435,3003 437,2999 434,2995 439,2988 435,2981 435,2978 431,2973 436,2968 436,2965 433,2961 436,2957 434,2954 435,2951" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14550_1" ulx="398" uly="2952" lrx="417" lry="3108" points="398,2952 399,2959 397,2964 397,2972 398,2975 397,2987 399,2991 397,2995 397,2999 397,3003 397,3011 399,3017 397,3021 397,3024 396,3032 395,3035 394,3039 397,3043 397,3046 399,3052 397,3058 399,3062 396,3067 398,3071 397,3075 399,3078 399,3089 397,3093 398,3096 398,3099 398,3103 398,3108 417,3108 416,3107 418,3104 417,3101 416,3097 416,3093 416,3089 417,3083 415,3078 418,3072 416,3068 416,3056 416,3047 419,3041 416,3034 410,3025 406,3019 416,3006 418,3003 417,2999 416,2995 415,2991 414,2986 413,2983 415,2979 417,2975 416,2971 416,2967 416,2960 416,2957 418,2954 417,2952"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14550_2" ulx="418" uly="2951" lrx="435" lry="3107" points="418,2951 419,2957 417,2963 418,2967 418,2972 418,2976 413,2983 414,2986 415,2991 416,2995 417,2999 418,3003 406,3019 410,3025 416,3034 419,3041 416,3046 419,3051 417,3055 417,3058 418,3061 419,3064 417,3069 419,3077 417,3080 417,3090 417,3101 417,3105 418,3107 435,3107 434,3105 434,3101 434,3098 434,3094 436,3091 436,3085 435,3082 432,3078 437,3070 433,3065 434,3060 435,3055 442,3047 438,3041 440,3037 439,3033 439,3029 434,3022 435,3019 432,3015 434,3010 435,3003 437,2999 434,2995 439,2988 435,2981 435,2978 431,2973 436,2968 436,2965 433,2961 436,2957 434,2954 435,2951"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2038" ulx="436" uly="2950" lrx="540" lry="3107" points="436,2950 435,2955 434,2961 436,2965 436,2968 431,2973 436,2979 440,2985 436,2992 440,2998 436,3003 435,3007 432,3015 436,3020 435,3023 439,3029 439,3033 440,3037 438,3041 442,3047 436,3054 438,3060 436,3064 440,3068 433,3077 437,3082 437,3090 437,3095 436,3098 436,3107 540,3107 538,3103 540,3098 542,3094 539,3090 539,3084 539,3077 542,3073 539,3068 540,3064 542,3060 538,3056 544,3050 539,3043 540,3039 542,3034 541,3031 541,3025 540,3016 539,3011 538,3008 541,3005 539,3000 539,2997 540,2992 538,2988 540,2983 539,2980 539,2976 539,2970 541,2964 541,2961 539,2954 540,2950" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2038_1" ulx="436" uly="2950" lrx="540" lry="3107" points="436,2950 435,2955 434,2961 436,2965 436,2968 431,2973 436,2979 440,2985 436,2992 440,2998 436,3003 435,3007 432,3015 436,3020 435,3023 439,3029 439,3033 440,3037 438,3041 442,3047 436,3054 438,3060 436,3064 440,3068 433,3077 437,3082 437,3090 437,3095 436,3098 436,3107 540,3107 538,3103 540,3098 542,3094 539,3090 539,3084 539,3077 542,3073 539,3068 540,3064 542,3060 538,3056 544,3050 539,3043 540,3039 542,3034 541,3031 541,3025 540,3016 539,3011 538,3008 541,3005 539,3000 539,2997 540,2992 538,2988 540,2983 539,2980 539,2976 539,2970 541,2964 541,2961 539,2954 540,2950"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_Fontenay_14551" ulx="541" uly="2944" lrx="688" lry="3106" points="541,2944 541,2946 540,2950 540,2953 540,2960 540,2971 540,2979 540,2987 540,2992 542,2996 540,3000 541,3003 538,3013 541,3019 541,3022 541,3026 541,3029 542,3034 541,3037 540,3040 540,3044 545,3049 538,3056 542,3060 542,3065 541,3068 542,3073 542,3077 540,3081 540,3086 540,3089 541,3092 541,3095 540,3098 540,3102 541,3106 688,3106 687,3104 687,3100 689,3094 688,3075 687,3072 689,3069 688,3059 696,3045 694,3035 694,3032 692,3027 690,3022 690,3018 691,3015 692,3011 693,3008 693,3002 687,2992 687,2971 688,2961 687,2958 689,2955 688,2944" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14551_1" ulx="541" uly="2944" lrx="595" lry="3103" points="541,2944 541,2946 540,2950 540,2953 540,2960 540,2971 540,2979 540,2987 540,2992 542,2996 540,3000 541,3003 538,3013 541,3019 541,3022 541,3026 541,3029 542,3034 541,3037 540,3040 540,3044 545,3049 538,3056 542,3060 542,3065 541,3068 542,3073 542,3077 540,3081 540,3086 540,3089 541,3092 541,3095 540,3098 540,3102 541,3103 595,3103 597,3100 594,3093 594,3090 594,3080 596,3077 595,3073 594,3070 596,3065 595,3053 594,3050 596,3047 588,3034 583,3028 584,3024 583,3021 588,3015 596,3003 594,2999 595,2996 595,2993 594,2990 594,2986 596,2982 594,2977 594,2968 596,2964 595,2960 594,2957 596,2953 596,2950 595,2946 595,2944"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14551_2" ulx="596" uly="2944" lrx="647" lry="3100" points="596,2944 597,2949 595,2952 597,2956 595,2960 594,2968 596,2972 594,2977 596,2982 598,2988 596,2992 595,2997 595,3001 588,3015 583,3021 584,3024 583,3028 588,3034 596,3048 597,3053 595,3057 595,3061 597,3066 595,3069 595,3073 596,3076 595,3079 596,3082 595,3095 597,3099 596,3100 647,3100 648,3099 648,3095 646,3090 646,3075 646,3071 646,3063 647,3059 646,3053 647,3049 635,3032 647,3017 647,3013 649,3007 650,3004 648,2998 645,2994 649,2990 645,2984 647,2979 648,2974 654,2965 658,2958 647,2944"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14551_3" ulx="648" uly="2944" lrx="667" lry="3098" points="648,2944 658,2958 654,2965 648,2974 648,2978 654,2986 648,2993 653,2998 649,3002 649,3007 650,3010 648,3014 647,3018 637,3034 648,3051 647,3059 648,3063 648,3072 647,3078 648,3082 648,3086 647,3091 649,3094 648,3098 667,3098 666,3097 668,3093 666,3085 666,3082 667,3074 672,3067 667,3060 668,3057 667,3047 666,3044 666,3039 667,3034 668,3030 670,3026 668,3017 666,3013 670,3007 664,3001 666,2997 668,2987 668,2977 668,2974 666,2970 666,2963 668,2959 667,2955 668,2952 666,2946 667,2944"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14551_4" ulx="653" uly="2944" lrx="688" lry="3098" points="653,2944 658,2949 658,2953 658,2958 654,2965 653,2969 653,2972 652,2976 656,2982 652,2989 656,2994 653,2999 652,3005 652,3008 653,3012 663,3025 658,3032 662,3037 654,3046 653,3050 651,3058 651,3061 649,3067 653,3072 653,3075 653,3079 652,3086 652,3094 653,3098 688,3098 689,3094 688,3075 687,3072 689,3069 688,3059 696,3045 694,3035 694,3032 692,3027 690,3022 690,3018 691,3015 692,3011 693,3008 693,3002 687,2992 687,2971 688,2961 687,2958 689,2955 688,2944"/>
+                            <zone type="character" xml:id="zone-c_w_Fontenay_14551_5" ulx="668" uly="2944" lrx="688" lry="3097" points="668,2944 667,2947 669,2951 667,2955 668,2958 667,2962 667,2966 667,2969 669,2973 669,2981 668,2985 667,2989 669,2992 669,2995 664,3001 670,3008 667,3012 667,3015 667,3020 670,3026 668,3030 669,3045 669,3049 669,3054 668,3057 673,3066 667,3074 669,3078 667,3081 668,3084 669,3089 668,3097 688,3097 689,3094 688,3075 687,3072 689,3069 688,3059 696,3045 694,3035 694,3032 692,3027 690,3022 690,3018 691,3015 692,3011 693,3008 693,3002 687,2992 687,2971 688,2961 687,2958 689,2955 688,2944"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_Fontenay_2039" ulx="689" uly="2940" lrx="713" lry="3099" points="689,2940 689,2942 688,2947 688,2953 690,2963 688,2969 688,2973 691,2976 688,2982 688,2985 689,2989 693,3002 693,3008 692,3011 691,3015 690,3018 690,3022 692,3027 694,3032 694,3035 696,3045 689,3057 689,3060 688,3064 688,3067 688,3071 690,3074 688,3078 689,3081 690,3086 689,3089 688,3097 689,3099 713,3099 713,3098 712,3094 713,3090 714,3087 714,3080 712,3075 712,3072 714,3068 712,3064 714,3061 713,3050 713,3047 713,3044 714,3041 714,3036 713,3028 713,3025 713,3019 715,3015 712,3009 714,3002 712,2997 712,2990 714,2981 712,2974 714,2968 712,2965 714,2952 714,2947 713,2940" ana="ori:valid-y">
+                            <zone type="character" xml:id="zone-c_pc_Fontenay_2039_1" ulx="689" uly="2940" lrx="713" lry="3097" points="689,2940 689,2942 688,2947 688,2953 690,2963 688,2969 688,2973 691,2976 688,2982 688,2985 689,2989 693,3002 693,3008 692,3011 691,3015 690,3018 690,3022 692,3027 694,3032 694,3035 696,3045 689,3057 689,3060 688,3064 688,3067 688,3071 690,3074 688,3078 689,3081 690,3086 689,3089 688,3096 689,3097 713,3097 712,3094 713,3090 714,3087 714,3080 712,3075 712,3072 714,3068 712,3064 714,3061 713,3050 713,3047 713,3044 714,3041 714,3036 713,3028 713,3025 713,3019 715,3015 712,3009 714,3002 712,2997 712,2990 714,2981 712,2974 714,2968 712,2965 714,2952 714,2947 713,2940"/>
+                        </zone>
+                    </zone>
+                </zone>
+            </zone>
+        </surface>
+    </facsimile>
+</TEI>

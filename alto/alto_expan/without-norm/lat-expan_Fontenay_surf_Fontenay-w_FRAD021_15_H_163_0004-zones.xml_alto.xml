@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:tei="http://www.tei-c.org/ns/1.0"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# ../schema/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>FRAD021_15_H_163_0004.tif</fileName>
+      </sourceImageInformation>
+   </Description>
+   <Layout>
+      <Page ID="zone-pb_Fontenay_11"
+            PHYSICAL_IMG_NR="0"
+            WIDTH="4172"
+            HEIGHT="2474">
+         <PrintSpace HPOS="0" VPOS="0" WIDTH="4172" HEIGHT="2474">
+            <TextBlock HPOS="346"
+                       VPOS="271"
+                       WIDTH="3573"
+                       HEIGHT="1555"
+                       ID="zone-col_pb_Fontenay_11_1">
+               <Shape>
+                  <Polygon POINTS="346,271 3919,271 3919,1826 346,1826"/>
+               </Shape>
+               <TextLine ID="zone-line_pb_Fontenay_11_1_1"
+                         BASELINE=""
+                         HPOS="372"
+                         VPOS="379"
+                         WIDTH="3344"
+                         HEIGHT="165">
+                  <Shape>
+                     <Polygon POINTS="372,379 3716,379 3716,544 372,544"/>
+                  </Shape>
+                  <String CONTENT="ego henricus dei gratia eduensis episcopus tam futuris quam presentibus presentibus notum facio quod rogerus de sinemuro"
+                          HPOS="372"
+                          VPOS="379"
+                          WIDTH="3344"
+                          HEIGHT="165"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_11_1_2"
+                         BASELINE=""
+                         HPOS="357"
+                         VPOS="570"
+                         WIDTH="3386"
+                         HEIGHT="178">
+                  <Shape>
+                     <Polygon POINTS="357,570 3743,570 3743,748 357,748"/>
+                  </Shape>
+                  <String CONTENT="laudante pontia uxore sua concessit ecclesię fontenetensi in manu dilecti fratris nostri arnaudi abbatis"
+                          HPOS="357"
+                          VPOS="570"
+                          WIDTH="3386"
+                          HEIGHT="178"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_11_1_3"
+                         BASELINE=""
+                         HPOS="369"
+                         VPOS="756"
+                         WIDTH="3381"
+                         HEIGHT="175">
+                  <Shape>
+                     <Polygon POINTS="369,756 3750,756 3750,931 369,931"/>
+                  </Shape>
+                  <String CONTENT="totum integraliter casamentum quod richardus de curte rabodi ab ipso tenebat in finibus fraxini quod idem"
+                          HPOS="369"
+                          VPOS="756"
+                          WIDTH="3381"
+                          HEIGHT="175"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_11_1_4"
+                         BASELINE=""
+                         HPOS="362"
+                         VPOS="943"
+                         WIDTH="3336"
+                         HEIGHT="185">
+                  <Shape>
+                     <Polygon POINTS="362,943 3698,943 3698,1128 362,1128"/>
+                  </Shape>
+                  <String CONTENT="richardus ecclesię fontenetensi dederat retinuit autem idem rogerus tantummodo homines qui de eodem"
+                          HPOS="362"
+                          VPOS="943"
+                          WIDTH="3336"
+                          HEIGHT="185"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_11_1_5"
+                         BASELINE=""
+                         HPOS="369"
+                         VPOS="1127"
+                         WIDTH="3288"
+                         HEIGHT="184">
+                  <Shape>
+                     <Polygon POINTS="369,1127 3657,1127 3657,1311 369,1311"/>
+                  </Shape>
+                  <String CONTENT="casamento erant et habuit de beneficio ecclesię decem libras actum est hoc per manum andree"
+                          HPOS="369"
+                          VPOS="1127"
+                          WIDTH="3288"
+                          HEIGHT="184"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_11_1_6"
+                         BASELINE=""
+                         HPOS="380"
+                         VPOS="1314"
+                         WIDTH="3301"
+                         HEIGHT="182">
+                  <Shape>
+                     <Polygon POINTS="380,1314 3681,1314 3681,1496 380,1496"/>
+                  </Shape>
+                  <String CONTENT="montis barri domini quem rogerus fidejussorem dedit ecclesię quod hoc donum firmiter servaret"
+                          HPOS="380"
+                          VPOS="1314"
+                          WIDTH="3301"
+                          HEIGHT="182"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_11_1_7"
+                         BASELINE=""
+                         HPOS="365"
+                         VPOS="1498"
+                         WIDTH="3369"
+                         HEIGHT="178">
+                  <Shape>
+                     <Polygon POINTS="365,1498 3734,1498 3734,1676 365,1676"/>
+                  </Shape>
+                  <String CONTENT="testes hujus doni sunt andreas montis barri dominus symon de curtengi teobaldus prior fontenetensis"
+                          HPOS="365"
+                          VPOS="1498"
+                          WIDTH="3369"
+                          HEIGHT="178"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_11_1_8"
+                         BASELINE=""
+                         HPOS="387"
+                         VPOS="1679"
+                         WIDTH="3306"
+                         HEIGHT="173">
+                  <Shape>
+                     <Polygon POINTS="387,1679 3693,1679 3693,1852 387,1852"/>
+                  </Shape>
+                  <String CONTENT="willelmus de scharleiis willelmus cellerarius hugo de curte rabodi monachi fontenetenses"
+                          HPOS="387"
+                          VPOS="1679"
+                          WIDTH="3306"
+                          HEIGHT="173"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

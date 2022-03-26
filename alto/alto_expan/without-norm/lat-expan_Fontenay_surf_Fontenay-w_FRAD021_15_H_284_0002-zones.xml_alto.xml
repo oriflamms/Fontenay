@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:tei="http://www.tei-c.org/ns/1.0"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# ../schema/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>FRAD021_15_H_284_0002.tif</fileName>
+      </sourceImageInformation>
+   </Description>
+   <Layout>
+      <Page ID="zone-pb_Fontenay_45"
+            PHYSICAL_IMG_NR="0"
+            WIDTH="2710"
+            HEIGHT="1930">
+         <PrintSpace HPOS="0" VPOS="0" WIDTH="2710" HEIGHT="1930">
+            <TextBlock HPOS="212"
+                       VPOS="182"
+                       WIDTH="2155"
+                       HEIGHT="1027"
+                       ID="zone-col_pb_Fontenay_45_1">
+               <Shape>
+                  <Polygon POINTS="212,182 2367,182 2367,1209 212,1209"/>
+               </Shape>
+               <TextLine ID="zone-line_pb_Fontenay_45_1_1"
+                         BASELINE=""
+                         HPOS="258"
+                         VPOS="224"
+                         WIDTH="2135"
+                         HEIGHT="118">
+                  <Shape>
+                     <Polygon POINTS="258,224 2393,224 2393,342 258,342"/>
+                  </Shape>
+                  <String CONTENT="ego stephanus dei gratia eduensis episcopus notum facio presentibus et futuris quod mathelia"
+                          HPOS="258"
+                          VPOS="224"
+                          WIDTH="2135"
+                          HEIGHT="118"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_45_1_2"
+                         BASELINE=""
+                         HPOS="260"
+                         VPOS="336"
+                         WIDTH="2091"
+                         HEIGHT="142">
+                  <Shape>
+                     <Polygon POINTS="260,336 2351,336 2351,478 260,478"/>
+                  </Shape>
+                  <String CONTENT="domina de sancto andeolo pro anima sua et viri sui anselmi dedit in elemosinam"
+                          HPOS="260"
+                          VPOS="336"
+                          WIDTH="2091"
+                          HEIGHT="142"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_45_1_3"
+                         BASELINE=""
+                         HPOS="242"
+                         VPOS="459"
+                         WIDTH="2085"
+                         HEIGHT="141">
+                  <Shape>
+                     <Polygon POINTS="242,459 2327,459 2327,600 242,600"/>
+                  </Shape>
+                  <String CONTENT="deo et fratribus ecclesie fonteneti usagium terre sue de crespies et a grangia"
+                          HPOS="242"
+                          VPOS="459"
+                          WIDTH="2085"
+                          HEIGHT="141"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_45_1_4"
+                         BASELINE=""
+                         HPOS="230"
+                         VPOS="591"
+                         WIDTH="2127"
+                         HEIGHT="126">
+                  <Shape>
+                     <Polygon POINTS="230,591 2357,591 2357,717 230,717"/>
+                  </Shape>
+                  <String CONTENT="sancti aniani usque ad sanctum martinum ubicunque fuerit ad pascua animalium suorum"
+                          HPOS="230"
+                          VPOS="591"
+                          WIDTH="2127"
+                          HEIGHT="126"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_45_1_5"
+                         BASELINE=""
+                         HPOS="246"
+                         VPOS="710"
+                         WIDTH="2103"
+                         HEIGHT="122">
+                  <Shape>
+                     <Polygon POINTS="246,710 2349,710 2349,832 246,832"/>
+                  </Shape>
+                  <String CONTENT="excepto pasnagio hinc testes sunt guido capellanus roverii lambertus"
+                          HPOS="246"
+                          VPOS="710"
+                          WIDTH="2103"
+                          HEIGHT="122"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_45_1_6"
+                         BASELINE=""
+                         HPOS="248"
+                         VPOS="837"
+                         WIDTH="2092"
+                         HEIGHT="131">
+                  <Shape>
+                     <Polygon POINTS="248,837 2340,837 2340,968 248,968"/>
+                  </Shape>
+                  <String CONTENT="de roverio patruus predicte mathelie hugo de meneriis gifardus de"
+                          HPOS="248"
+                          VPOS="837"
+                          WIDTH="2092"
+                          HEIGHT="131"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_45_1_7"
+                         BASELINE=""
+                         HPOS="273"
+                         VPOS="960"
+                         WIDTH="2091"
+                         HEIGHT="135">
+                  <Shape>
+                     <Polygon POINTS="273,960 2364,960 2364,1095 273,1095"/>
+                  </Shape>
+                  <String CONTENT="rupe stephanus ejusdem anselmi frater frater antelmus de regniaco johannes"
+                          HPOS="273"
+                          VPOS="960"
+                          WIDTH="2091"
+                          HEIGHT="135"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_45_1_8"
+                         BASELINE=""
+                         HPOS="290"
+                         VPOS="1095"
+                         WIDTH="2037"
+                         HEIGHT="146">
+                  <Shape>
+                     <Polygon POINTS="290,1095 2327,1095 2327,1241 290,1241"/>
+                  </Shape>
+                  <String CONTENT="prepositus de sancto andeolo anno ab incarnatione domini m° c° lxxx° vii°"
+                          HPOS="290"
+                          VPOS="1095"
+                          WIDTH="2037"
+                          HEIGHT="146"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

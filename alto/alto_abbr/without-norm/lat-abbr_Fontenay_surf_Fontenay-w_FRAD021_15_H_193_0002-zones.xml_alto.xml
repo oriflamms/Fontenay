@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:tei="http://www.tei-c.org/ns/1.0"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# ../schema/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>FRAD021_15_H_193_0002.tif</fileName>
+      </sourceImageInformation>
+   </Description>
+   <Layout>
+      <Page ID="zone-pb_Fontenay_32"
+            PHYSICAL_IMG_NR="0"
+            WIDTH="3802"
+            HEIGHT="2856">
+         <PrintSpace HPOS="0" VPOS="0" WIDTH="3802" HEIGHT="2856">
+            <TextBlock HPOS="428"
+                       VPOS="327"
+                       WIDTH="2854"
+                       HEIGHT="1450"
+                       ID="zone-col_pb_Fontenay_32_1">
+               <Shape>
+                  <Polygon POINTS="428,327 3282,327 3282,1777 428,1777"/>
+               </Shape>
+               <TextLine ID="zone-line_pb_Fontenay_32_1_1"
+                         BASELINE=""
+                         HPOS="420"
+                         VPOS="323"
+                         WIDTH="2839"
+                         HEIGHT="253">
+                  <Shape>
+                     <Polygon POINTS="420,323 3259,323 3259,576 420,576"/>
+                  </Shape>
+                  <String CONTENT="ego galterus dei grã lingonensis episcopus presentib; &amp; futuris notifico"
+                          HPOS="420"
+                          VPOS="323"
+                          WIDTH="2839"
+                          HEIGHT="253"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_32_1_2"
+                         BASELINE=""
+                         HPOS="537"
+                         VPOS="626"
+                         WIDTH="2736"
+                         HEIGHT="177">
+                  <Shape>
+                     <Polygon POINTS="537,626 3273,626 3273,803 537,803"/>
+                  </Shape>
+                  <String CONTENT="qd̃ rob̃tus de asiaco concessit eccłię fonteneti pro anima sua ⁊ añcessoꝝ suoꝝ"
+                          HPOS="537"
+                          VPOS="626"
+                          WIDTH="2736"
+                          HEIGHT="177"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_32_1_3"
+                         BASELINE=""
+                         HPOS="525"
+                         VPOS="833"
+                         WIDTH="2751"
+                         HEIGHT="175">
+                  <Shape>
+                     <Polygon POINTS="525,833 3276,833 3276,1008 525,1008"/>
+                  </Shape>
+                  <String CONTENT="om̃s pasturas terrarũ suarũ quas habebat in finagio lanię ⁊ janhiaci ⁊"
+                          HPOS="525"
+                          VPOS="833"
+                          WIDTH="2751"
+                          HEIGHT="175"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_32_1_4"
+                         BASELINE=""
+                         HPOS="536"
+                         VPOS="1042"
+                         WIDTH="2691"
+                         HEIGHT="163">
+                  <Shape>
+                     <Polygon POINTS="536,1042 3227,1042 3227,1205 536,1205"/>
+                  </Shape>
+                  <String CONTENT="longi boschi ⁊ jarcehii ⁊ cõmunię ad om̃ia animalia fratrum &amp; pastionẽ"
+                          HPOS="536"
+                          VPOS="1042"
+                          WIDTH="2691"
+                          HEIGHT="163"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_32_1_5"
+                         BASELINE=""
+                         HPOS="522"
+                         VPOS="1240"
+                         WIDTH="2736"
+                         HEIGHT="157">
+                  <Shape>
+                     <Polygon POINTS="522,1240 3258,1240 3258,1397 522,1397"/>
+                  </Shape>
+                  <String CONTENT="ad porcos absq; damno messis &amp; prati hujus rei testes sunt rainaldus"
+                          HPOS="522"
+                          VPOS="1240"
+                          WIDTH="2736"
+                          HEIGHT="157"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_32_1_6"
+                         BASELINE=""
+                         HPOS="525"
+                         VPOS="1444"
+                         WIDTH="2742"
+                         HEIGHT="154">
+                  <Shape>
+                     <Polygon POINTS="525,1444 3267,1444 3267,1598 525,1598"/>
+                  </Shape>
+                  <String CONTENT="montis barri decanus hugo de lania petrus de plaaneto symon"
+                          HPOS="525"
+                          VPOS="1444"
+                          WIDTH="2742"
+                          HEIGHT="154"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_32_1_7"
+                         BASELINE=""
+                         HPOS="509"
+                         VPOS="1640"
+                         WIDTH="2713"
+                         HEIGHT="173">
+                  <Shape>
+                     <Polygon POINTS="509,1640 3222,1640 3222,1813 509,1813"/>
+                  </Shape>
+                  <String CONTENT="de curtengi"
+                          HPOS="509"
+                          VPOS="1640"
+                          WIDTH="2713"
+                          HEIGHT="173"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
