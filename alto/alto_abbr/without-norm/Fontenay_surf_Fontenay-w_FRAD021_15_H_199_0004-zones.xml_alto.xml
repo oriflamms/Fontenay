@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:tei="http://www.tei-c.org/ns/1.0"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# ../schema/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>FRAD021_15_H_199_0004.tif</fileName>
+      </sourceImageInformation>
+   </Description>
+   <Layout>
+      <Page ID="zone-pb_Fontenay_16" PHYSICAL_IMG_NR="0" WIDTH="4256" HEIGHT="3362">
+         <PrintSpace HPOS="0" VPOS="0" WIDTH="4256" HEIGHT="3362">
+            <TextBlock HPOS="521" VPOS="597" WIDTH="3204" HEIGHT="2005" ID="zone-col_pb_Fontenay_16_1">
+               <Shape>
+                  <Polygon POINTS="521,597 3725,597 3725,2602 521,2602"/>
+               </Shape>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_1" BASELINE="" HPOS="574" VPOS="485"
+                         WIDTH="3061"
+                         HEIGHT="296">
+                  <Shape>
+                     <Polygon POINTS="574,485 3635,485 3635,781 574,781"/>
+                  </Shape>
+                  <String CONTENT="ego henricus ,dei grã presul eduensis ,fidelib; universis notum volo"
+                          HPOS="574"
+                          VPOS="485"
+                          WIDTH="3061"
+                          HEIGHT="296"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_2" BASELINE="" HPOS="557" VPOS="841"
+                         WIDTH="3139"
+                         HEIGHT="157">
+                  <Shape>
+                     <Polygon POINTS="557,841 3696,841 3696,998 557,998"/>
+                  </Shape>
+                  <String CONTENT="fieri qd̃ hugo junior de merlegniaco pasturam lucennaci dimidiam quam"
+                          HPOS="557"
+                          VPOS="841"
+                          WIDTH="3139"
+                          HEIGHT="157"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_3" BASELINE="" HPOS="576" VPOS="1052"
+                         WIDTH="3093"
+                         HEIGHT="156">
+                  <Shape>
+                     <Polygon POINTS="576,1052 3669,1052 3669,1208 576,1208"/>
+                  </Shape>
+                  <String CONTENT="pater suus hugo senior monachis fontenetensib; dederat in manu abbatis"
+                          HPOS="576"
+                          VPOS="1052"
+                          WIDTH="3093"
+                          HEIGHT="156"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_4" BASELINE="" HPOS="558" VPOS="1265"
+                         WIDTH="3156"
+                         HEIGHT="164">
+                  <Shape>
+                     <Polygon POINTS="558,1265 3714,1265 3714,1429 558,1429"/>
+                  </Shape>
+                  <String CONTENT="ipsorum arnaudi laudavit .actum apud monasterium sancti johannis"
+                          HPOS="558"
+                          VPOS="1265"
+                          WIDTH="3156"
+                          HEIGHT="164"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_5" BASELINE="" HPOS="569" VPOS="1489"
+                         WIDTH="3084"
+                         HEIGHT="154">
+                  <Shape>
+                     <Polygon POINTS="569,1489 3653,1489 3653,1643 569,1643"/>
+                  </Shape>
+                  <String CONTENT="ꝑ manum oddonis ducis burgundie ⁊ anserici de monte regio .testes"
+                          HPOS="569"
+                          VPOS="1489"
+                          WIDTH="3084"
+                          HEIGHT="154"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_6" BASELINE="" HPOS="560" VPOS="1706"
+                         WIDTH="3093"
+                         HEIGHT="156">
+                  <Shape>
+                     <Polygon POINTS="560,1706 3653,1706 3653,1862 560,1862"/>
+                  </Shape>
+                  <String CONTENT="autem sunt hujus laudationis prefatus dux &amp; ansericus ,necnon et"
+                          HPOS="560"
+                          VPOS="1706"
+                          WIDTH="3093"
+                          HEIGHT="156"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_7" BASELINE="" HPOS="539" VPOS="1940"
+                         WIDTH="3102"
+                         HEIGHT="155">
+                  <Shape>
+                     <Polygon POINTS="539,1940 3641,1940 3641,2095 539,2095"/>
+                  </Shape>
+                  <String CONTENT="kalo de lucennaco ,teobaldus &amp; gislebertus de grisigni ,haimo de divi"
+                          HPOS="539"
+                          VPOS="1940"
+                          WIDTH="3102"
+                          HEIGHT="155"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_8" BASELINE="" HPOS="537" VPOS="2158"
+                         WIDTH="3201"
+                         HEIGHT="169">
+                  <Shape>
+                     <Polygon POINTS="537,2158 3738,2158 3738,2327 537,2327"/>
+                  </Shape>
+                  <String CONTENT="one ,petrus dapifer .ipsi vero fontenetenses pro hujusmodi conventione"
+                          HPOS="537"
+                          VPOS="2158"
+                          WIDTH="3201"
+                          HEIGHT="169"/>
+               </TextLine>
+               <TextLine ID="zone-line_pb_Fontenay_16_1_9" BASELINE="" HPOS="548" VPOS="2386"
+                         WIDTH="1972"
+                         HEIGHT="169">
+                  <Shape>
+                     <Polygon POINTS="548,2386 2520,2386 2520,2555 548,2555"/>
+                  </Shape>
+                  <String CONTENT="de beneficio suo decem libras illi dederunt ." HPOS="548" VPOS="2386"
+                          WIDTH="1972"
+                          HEIGHT="169"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
